@@ -1,45 +1,45 @@
 dialog{
   id = "game_complete_3_1",
   text = [[
-You again?
+Encore toi ?
 ]]
 }
 
 dialog{
   id = "game_complete_3_2",
   text = [[
-Best get to
-it then.
+Le mieux est
+d'y aller donc.
 ]]
 }
 
 dialog{
   id = "game_complete_2_1",
   text = [[
-Thank you for playing!
+Merci d'avoir joué !
 ]]
 }
 
 dialog{
   id = "_treasure.shield.1",
   text = [[
-You got the shield!
+Tu as le Bouclier !
 ]]
 }
 
 dialog{
   id = "game_complete_1_1",
   text = [[
-You're back!
+De retour !
 ]]
 }
 
 dialog{
   id = "game_complete_1_2",
   text = [[
-Look at all the
-tunics I made
-for you.
+Regardes tous les habits
+que j'ai cousu
+pour toi.
 ]]
 }
 
@@ -47,23 +47,23 @@ dialog{
   id = "game_complete_1_3",
   question = true, 
   text = [[
-Are you done?
-  Yes
-  Give me more!
+T'en a marre ?
+  Oui
+  J'en veux encore !
 ]]
 }
 
 dialog{
   id = "game_complete_1_4",
   text = [[
-Oh, fiddlesticks!
+Oh, balivernes !
 ]]
 }
 
 dialog{
   id = "_treasure.heart_container.1",
   text = [[
-Got a heart container!
+Un coeur en Plus !
 ]]
 }
 
@@ -71,8 +71,8 @@ dialog{
   id = "try_again",
   question = true,
   text = [[
-Try again?
-  Sure
+Recommencer ?
+  Bien Sur
   Nope
 ]]
 }
@@ -81,37 +81,37 @@ dialog{
   id = "game_over",
   text = [[
 Game over.
-You got X tunics.
+Tu as X habits.
 ]]
 }
 
 dialog{
   id = "tier_complete",
   text = [[
-Tunic finished. Keep going!
+Habit complété. On continue !
 ]]
 }
 
 dialog{
   id = "intro_1_1",
   text = [[
-Hyrule is at peace.
+Hyrule est en paix.
 ]]
 }
 
 dialog{
   id = "intro_1_2",
   text = [[
-It's a nice day 
-for a picnic...
+Belle journée
+pour un pique nique...
 ]]
 }
 
 dialog{
   id = "intro_2_1",
   text = [[
-I'm knitting you 
-a new tunic.
+Je tricote un nouvel
+habit pour toi.
 ]]
 }
 
@@ -125,35 +125,34 @@ Hey!
 dialog{
   id = "intro_2_3",
   text = [[
-Hello?
+Y'a quelqu'un ?
 ]]
 }
 
 dialog{
   id = "intro_2_4",
   text = [[
-I guess I'll just
-keep knitting until
-he gets back.
+Je suppose que je 
+vais continuer de tricoter
+jusqu'à son retour.
 ]]
 }
 
 dialog{
   id = "intro_3_1",
   text = [[
-How nice, a visitor!
-Care for crackers?
+Quelle surprise, un visiteur!
 ]]
 }
 
 dialog{
   id = "intro_3_2",
   text = [[
-A royal picnic, you say?
-Shortest way out
-is up the stairs.
+Un pique nique royal tu dis ?
+Le plus court, 
+prends les escaliers.
 
-Oh, one more thing...
+Oh, encore une chose...
 ]]
 }
 
@@ -167,14 +166,14 @@ dialog{
 dialog{
   id = "intro_3_npc",
   text = [[
-Off you go.
+c'est parti.
 ]]
 }
 
 dialog{
   id = "_treasure.glove.1",
   text =[[
-You got the glove!
+Tu as les Gants de Force!
 ]]
 }
 
@@ -189,63 +188,63 @@ go alone. Take this.
 dialog{
   id = "_treasure.flippers.1",
   text = [[
-Got the flippers!
+Tu as les Palmes !
 ]]
 }
 
 dialog{
   id = "_treasure.bow.1",
   text = [[
-Got the bow!
+Tu as l'Arc !
 ]]
 }
 
 dialog{
   id = "_treasure.lamp.1",
   text = [[
-Got the lamp!
+Tu as la Bougie !
 ]]
 }
 
 dialog{
   id = "_treasure.bombs_counter.1",
   text = [[
-Got bombs!
+Tu as les Bombes!
 ]]
 }
 
 dialog{
   id = "_treasure.hookshot.1",
   text = [[
-Got the hookshot!
+Tu as le Grappin !
 ]]
 }
 
 dialog{
   id = "_treasure.bigkey.1",
   text = [[
-Got the big key!
+Tu ramasses la Grosse Clé !
 ]]
 }
 
 dialog{
   id = "_treasure.compass.1",
   text = [[
-Got the compass!
+Tu as la Boussole !
 ]]
 }
 
 dialog{
   id = "_treasure.map.1",
   text = [[
-Got the map!
+Tu as la Carte !
 ]]
 }
 
 dialog{
   id = "_treasure.smallkey.1",
   text = [[
-Got a key!
+Tu ramasses une Clé !
 ]]
 }
 
@@ -254,8 +253,8 @@ dialog{
   icon = 1,
   skip = "all",
   text = [[
-Blow things up with
-the Bombs.
+Fais tout péter
+avec les Bombes !
 ]]
 }
 
@@ -264,8 +263,7 @@ dialog{
   icon = 2,
   skip = "all",
   text = [[
-You don't have any
-Arrows left!
+Plus de flèches !
 ]]
 }
 
@@ -274,9 +272,8 @@ dialog{
   icon = 3,
   skip = "all",
   text = [[
-Don't forget target
-practice with the
-Bow & Arrow.
+N'oublies pas ton
+entrainement à l'Arc !
 ]]
 }
 
@@ -285,8 +282,8 @@ dialog{
   icon = 5,
   skip = "all",
   text = [[
-Light torches with
-the Lamp.
+Allumes les torches
+avec ta Bougie.
 ]]
 }
 
@@ -295,9 +292,9 @@ dialog{
   icon = 6,
   skip = "all",
   text = [[
-Reach inaccessible
-places with the
-Hookshot.
+Accroches toi
+dans d'autres lieux
+avec ton Grappin.
 ]]
 }
 
@@ -306,8 +303,8 @@ dialog{
   icon = "26",
   skip = "all",
   text = [[
-Swim in deep waters
-with the Flippers.
+Nage dans les eaux
+profondes avec tes Palmes !
 ]]
 }
 
@@ -316,8 +313,8 @@ dialog{
   icon = "32",
   skip = "all",
   text = [[
-Lift heavy things
-with the Gloves.
+Soulève des Mammouths
+avec tes gants !
 ]]
 }
 
@@ -326,7 +323,7 @@ dialog{
   icon = 73,
   skip = "all",
   text = [[
-It's locked!
-You need a big key.
+C'est fermé !
+Tu as besoin de la Grosse Clé.
 ]]
 }
