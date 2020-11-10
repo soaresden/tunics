@@ -1,0 +1,3 @@
+text{ key = "tier", value = "Etage " }
+text{ key = "completed", value = " complété" }
+text{ key = "title_screen.press_space", value = "Start pour Commencer" }

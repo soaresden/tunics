@@ -8,6 +8,7 @@ local bindings = require 'lib/bindings'
 
 function sol.main:on_started()
 
+	sol.main.load_settings() --adding support for settings file generation
     zentropy.init()
 
     if zentropy.settings.debug_validate then
